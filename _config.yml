@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /champaign-urbana
 permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Chapter name
-  twitter: TwitterHandle
+  chapter: MaptimeUIUC
+  twitter: 
   #disqus: YOUR DISQUS USERNAME
