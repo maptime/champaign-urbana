@@ -2,9 +2,9 @@ baseurl: /champaign-urbana
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: champaign-urbana
 github_org: maptime
 maptime:
-  chapter: MaptimeUIUC
+  chapter: MaptimeCU
   twitter: 
   #disqus: YOUR DISQUS USERNAME
